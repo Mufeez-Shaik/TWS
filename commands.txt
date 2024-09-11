@@ -1,0 +1,14 @@
+Git commands
+
+git init 
+git add .
+git commit -m 'kuch bhi'
+git remote add origin repo-link
+git push origin master
+
+
+git branch branch-name /git checkout -b branch-name
+git log --oneline
+git status
+git push origin branch name
+git pull origin 
